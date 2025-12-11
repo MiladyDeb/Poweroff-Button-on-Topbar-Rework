@@ -1,0 +1,9 @@
+{
+  "description": "power-off button on topbar rework",
+  "name": "Poweroff Button on Topbar Rework",
+  "shell-version": [
+    "46"
+  ],
+  "uuid": "poweroff-button-on-topbar-rework@miladycat",
+  "version": 1
+}
