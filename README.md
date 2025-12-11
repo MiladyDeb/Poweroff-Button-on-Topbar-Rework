@@ -13,8 +13,8 @@ A continuation of [the original extension](https://extensions.gnome.org/extensio
 # How do I install it?
 
 Easy, first clone the repository with 
-```bash
-git clone https://github.com/MiladyDeb/Poweroff-Button-on-Topbar-Rework.git poweroff-button-on-topbar-rework@miladycat
+``bash
+git clone https://github.com/MiladyDeb/Poweroff-Button-on-Topbar-Rework.git poweroff-button-on-topbar-rework@miladycat```
 
 
 # And now to install it, run 
