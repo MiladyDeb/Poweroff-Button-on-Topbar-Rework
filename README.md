@@ -17,4 +17,4 @@ Easy, first clone the repository with
 # And now to install it, run 
 
 `mv poweroff-button-on-topbar-rework@miladycat $HOME/.local/share/gnome-shell/extensions/`
-## Now restart your session and enjoy!
+## Now restart your session and enjoy with the extension 😹!
